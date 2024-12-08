@@ -26,7 +26,7 @@ Open the index.html file in your browser to view the portfolio.
 
 Live Demo
 Here is the live version of my portfolio:
-Manzar's Portfolio
+Manzar's Portfolio https://manzar79md.github.io/My-Portfolio/
 
 Future Improvements
 Add more interactive features like contact forms.
